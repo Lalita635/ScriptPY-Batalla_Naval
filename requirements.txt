@@ -1,0 +1,3 @@
+# requirements.txt
+# Dependencias para el juego Batalla Naval
+# Solo requiere Python estándar, sin librerías externas
