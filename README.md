@@ -14,8 +14,9 @@ Haz clic en el siguiente botón para abrir el proyecto en un entorno interactivo
 3. Intenta hundir todos los barcos con la menor cantidad de intentos posibles.
 
 ## 📄 Requisitos
-Python 3.x
-Jupyter Notebook
+* Python 3.x
+* Jupyter Notebook
+
 (No requiere librerías externas)
 
 ## 📦 Instalación local
